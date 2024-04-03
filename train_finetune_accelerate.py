@@ -19,7 +19,7 @@ from meldataset import build_dataloader
 
 from Utils.ASR.models import ASRCNN
 from Utils.JDC.model import JDCNet
-from Utils.PLBERT.util import load_plbert
+from Utils.PLBERT_all_languages.util import load_plbert
 
 from models import *
 from losses import *
