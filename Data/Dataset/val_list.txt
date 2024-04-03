@@ -1,0 +1,45 @@
+neut_parl_s04_0230.wav|ɛl ˈɔfʁ œ̃ pʁəmjˈeʁ apʁɑ̃tisˈaʒ dyn lˈɑ̃ɡ vivˈɑ̃t etʁɑ̃ʒˈɛʁ|0
+neut_parl_s02_0540.wav|le- ʃˈoz sˈɔ̃t ɑ̃ tʁˈɛ̃ də- sɔʁɡanizˈe  məsjˈø ləlˈuʃ|0
+neut_parl_s04_0042.wav|la- plypˌaʁ de- ɡʁˈɑ̃ spɔʁtˈif fʁɑ̃sˈɛ vˈivt a letʁɑ̃ʒˈe|0
+neut_parl_s02_0242.wav|fəzˈɔ̃ dˈɔ̃k œ̃ pətˈi kalkˈyl|0
+neut_parl_s05_0124.wav|e il ɑ̃n ɛ mˈɔʁ|0
+neut_parl_s04_0090.wav|oʒuʁdyˈi  il saʒˈi dœ̃ tʁavˈaj ʒyʁidˈik|0
+neut_parl_s02_0461.wav|løʁˈo a etˈe sovˈe|0
+neut_parl_s02_0633.wav|sɛt yn kɛstjˈɔ̃ də- pʁɛ̃sˈip pɔlitˈik|0
+neut_parl_s06_0485.wav|sɛt ʒyʁispʁydˈɑ̃s ɛ kɔ̃stˈɑ̃t  abɔ̃dˈɑ̃t  klˈɛʁ|0
+neut_parl_s05_0270.wav|il i a de- dʁwˈa u il ni ɑ̃n a pˈa|0
+neut_parl_s05_0639.wav|mɛ tu vo kɔlˈɛɡ nɔ̃ pa fˈɛ də- mˈɛm|0
+neut_parl_s06_0504.wav|loɡmɑ̃tasjˈɔ̃ de- kʁedˈi də- sə- bydʒˈɛ ɛt a noz jˈøz œ̃ ʃwˈa ʒˈyst|0
+neut_parl_s01_0582.wav|paʁskˌə sɛt lwˈa  kə ʒə- sˈaʃ  vˈa ˈɛtʁ yn lwˈa dˈɔʁdʁ pyblˈik|0
+neut_parl_s04_0339.wav|le- ʃˈoz bˈuʒ  le- ʃˈoz ʃˈɑ̃ʒ|0
+neut_parl_s02_0298.wav|məsjˈø apaʁˈy  sil vu plˈɛ|0
+neut_parl_s03_0145.wav|sɛ puʁ səlˌa kə nuz avjˈɔ̃ pʁevˈy də- bɛsˈe lə- kˈu ɔʁˈɛʁ|0
+neut_parl_s01_0491.wav|də- mˈɛm  avˌɛk œ̃ salˈɛʁ mwˈɛ̃dʁ  le- kɔtizasjˈɔ̃ sˈɔ̃  də- fˈɛ  mwˈɛ̃dʁ|0
+neut_parl_s05_0389.wav|sɛ lˈa  mə- sˈɑ̃bltˈil  œ̃ syʒˈɛ ɛkstʁɛmmˈɑ̃ ɛ̃pɔʁtˈɑ̃|0
+neut_parl_s02_0679.wav|nuz oʁjˈɔ̃ dˈyː ekutˈe maʁtˈin obʁˈi|0
+neut_parl_s02_0617.wav|amadˈi  lɛsˈemwˌa finˈiʁ ma- fʁˈaz|0
+neut_parl_s03_0654.wav|nuz avˈɔ̃ ʃwazˈi yn otʁ metˈɔd|0
+neut_parl_s03_0684.wav|puʁ le- ɡʁˈɛk  la- səkˈus səʁˈɛ sɑ̃ nˈyl dˈut dyn vjɔlˈɑ̃s inˈuj|0
+neut_parl_s05_0672.wav|la- fʁˈɑ̃s a y ɡˈɛ̃ də- kˈoz  lɛ̃teɡʁasjˈɔ̃ sɔlidˈɛʁ ɛt ɑ̃ mˈaʁʃ|0
+neut_parl_s01_0725.wav|dɑ̃ se kɔ̃disjˈɔ̃  le- debˈa nə- pˈøv vʁɛmˈɑ̃ paz ˈɛtʁ səʁˈɛ̃|0
+neut_parl_s04_0635.wav|nubliˈɔ̃ ʒamˌɛ kə lɔmɔfɔbˈi tˈy|0
+neut_parl_s04_0079.wav|sɛt ɛʁˈœʁ ɛ dyn ɛkstʁˈɛm ɡʁavitˈe|0
+neut_parl_s01_0047.wav|la- paʁˈɔl ɛt a məsjˈø fʁedeʁˈik ʁˈɛs  puʁ sutnˈiʁ lamɑ̃dmˈɑ̃ nymeʁˈo kˈatʁvˈɛ̃ ˈœ̃|0
+neut_parl_s05_0603.wav|ʒə- pˈɑ̃s dˈɔ̃k kɔ̃n a dʁwˈa a de- ʁepˈɔ̃sz a no kɛstjɔnmˈɑ̃|0
+neut_parl_s02_0615.wav|tu səlˌa dəvʁˈɛ vuz ɛ̃sitˈe a ply də- nyˈɑ̃s e də- mɔdɛstˈi|0
+neut_parl_s01_0727.wav|kɔ̃bjˈɛ̃ i ɑ̃n atˈil|0
+neut_parl_s03_0015.wav|ʒɑ̃ dˈut  vˈy kə sə- sˈɔ̃ le- mˈɛm tˈip də- lɔkˈoz e də- bəzwˈɛ̃|0
+neut_parl_s05_0113.wav|sɛ tut ɑ̃ mˈɛm tˈɑ̃|0
+neut_parl_s01_0411.wav|le- dˈø metˈɔd sə- vˈal|0
+neut_parl_s03_0527.wav|mwˌa ʒə- ʁɑ̃kˈɔ̃tʁ yn pɛʁsˈɔn syʁ vˈɛ̃ ki mə- pˈaʁl də- sə- syʒˈɛ|0
+neut_parl_s02_0007.wav|mɛz o nivˈo də- nɔtʁ famˈij pɔlitˈik  nu kɔ̃tinyˈɔ̃z a mɛ̃tnˈiʁ sɛt pozisjˈɔ̃|0
+neut_parl_s04_0280.wav|puʁkwˌa le-z ɛ̃pˈakttˈɛl|0
+neut_parl_s02_0571.wav|sə- bydʒˈɛ də- kɔ̃bˈa  sə- bydʒˈɛ də- ɡˈoʃ  sɔlidˈɛʁ e ʁɛspɔ̃sˈabl  nu lasymˈɔ̃|0
+neut_parl_s06_0617.wav|lə- nivˈo øʁɔpeˈɛ̃ ɛ lə- ply pɛʁtinˈɑ̃ puʁ dˈø ʁɛzˈɔ̃|0
+neut_parl_s02_0707.wav|sə- ʃwˈa pɛʁmˈɛ də- definˈiʁ œ̃ ʃəmˈɛ̃ vɛʁtyˈøz e ɑ̃bisjˈø|0
+neut_parl_s03_0295.wav|ʒe la- ʃˈɑ̃s dˈɛtʁ lelˈy dœ̃ depaʁtəmˈɑ̃  la- savwˈa  pʁˈɔʃ də- dˈøz otʁ pɛˈi|0
+neut_parl_s05_0490.wav|la- ʁɛspɔ̃sabilitˈe ɛ bjˈɛ̃n ymˈɛn|0
+neut_parl_s06_0245.wav|nuz avˈɔ̃z y yn ebˈoʃ də- debˈa syʁ sə- pwˈɛ̃ ɑ̃ kɔmisjˈɔ̃|0
+neut_parl_s05_0585.wav|le- sɛʁtifikasjˈɔ̃ dwˈavt ˈɛtʁ də- nɔtɔʁjetˈe etablˈi|0
+neut_parl_s02_0324.wav|ɔ̃ nə- ʃˈɑ̃ʒ paz yn ekˈip ki pˈɛʁ|0
+neut_parl_s02_0269.wav|il sɔ̃ lə- pɑ̃dˈɑ̃ dy- mɑ̃dˈa daʁˈɛ øʁɔpeˈɛ̃|0
